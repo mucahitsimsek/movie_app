@@ -1,4 +1,4 @@
-# Covenlabs/Interview - Mücahit Şimşek
+# Interview - Mücahit Şimşek
 - Merhaba, Case'imi aşağıda bulunan Figma UI görünümü ile tamamladım. 
 Renk seçimleri ve UI benzetmelerini kapsayacak şekilde ilerledim.
 Kurulumlar için okumaya devam ediniz.
