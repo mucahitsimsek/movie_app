@@ -25,6 +25,10 @@ Bu klasörün içerisindeyken terminalde 'flutter packages pub run build_runner 
 
 - dart run flutter_native_splash:create --path=flutter_native_splash.yaml
 
+
+# Initialized App
+![Image](/screenshots/app_initialize.png)
+
 # Contact
 - mucahitsmsk74@gmail.com
 - +90 (545) 455 78 01
