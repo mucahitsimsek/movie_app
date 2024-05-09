@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501968836373",
+    "project_id": "covenlabs-interview",
+    "storage_bucket": "covenlabs-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501968836373:android:8295fa6abde32d4a71fb1c",
+        "android_client_info": {
+          "package_name": "com.mucahitsimsek.interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Txp6FX9xIF2fnfj1WiAWcnks9qxuWtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

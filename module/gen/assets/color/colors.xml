@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#242A32</color>
+    <color name="border">#0296E5</color>
+    <color name="rating">#FF8700</color>
+    <color name="detailText">#EEEEEE</color>
+    <color name="titleText">#FFFFFF</color>
+    <color name="descriptionText">#92929D</color>
+</resources>
